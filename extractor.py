@@ -32,7 +32,7 @@ with open('README.md', 'w', errors='surrogateescape', encoding='utf-8') as readm
                     for let in subtitle:
                         if let.isalpha():
                             reducedT += let.lower()
-                        if let == ' ':
+                        if let == ' ' or let == '-':
                             reducedT += '-'
                     titles.append([subtitle,reducedT])
                     fout.write('\n### ' + subtitle +'\n\n')

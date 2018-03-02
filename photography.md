@@ -8,7 +8,7 @@ Backup of the board made by Franco Leonardi.
 * [Camera icons](\#camera-icons)
 * [Flash](\#flash)
 * [New Category](\#new-category)
-* [DSLR - video shooting](\#dslr--video-shooting)
+* [DSLR - video shooting](\#dslr---video-shooting)
 * [Photography](\#photography)
 * [Joel Grimes](\#joel-grimes)
 * [Photo website](\#photo-website)
