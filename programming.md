@@ -2,7 +2,45 @@
 
 Backup of the board made by Franco Leonardi.
 
-## Interactive learning sites
+--- 
+
+## Tabla de contenidos
+* [Interactive learning sites](\#interactive-learning-sites)
+* [Webdev tutorials/tools](\#webdev-tutorialstools)
+* [Git](\#git)
+* [Java EE/Frameworks](\#java-eeframeworks)
+* [Javascript/Frameworks](\#javascriptframeworks)
+* [HTML/CSS](\#htmlcss)
+* [HTML/CSS/JS Snippets](\#htmlcssjs-snippets)
+* [Ruby/Rails](\#rubyrails)
+* [PHP](\#php)
+* [C#/.NET](\#cnet)
+* [Haskell](\#haskell)
+* [Scala](\#scala)
+* [Challenges](\#challenges)
+* [Computer Science/Tutorials](\#computer-sciencetutorials)
+* [Misc.](\#misc)
+* [IDE/TextEditors](\#idetexteditors)
+* [Books](\#books)
+* [APIs](\#apis)
+* [Swift/iOS](\#swiftios)
+* [Java/Android](\#javaandroid)
+* [GameDev](\#gamedev)
+* [Unity](\#unity)
+* [SQL](\#sql)
+* [Python/Django](\#pythondjango)
+* [Startups](\#startups)
+* [WordPress](\#wordpress)
+* [F#](\#f)
+* [Go](\#go)
+* [Regular expressions](\#regular-expressions)
+* [Rust](\#rust)
+* [Elixir/Frameworks](\#elixirframeworks)
+* [CMS](\#cms)
+* [Tools](\#tools)
+* [Podcasts](\#podcasts)
+
+### Interactive learning sites
 
 * [Microsoft Virtual Academy – Free IT Training, Online Learning of Microsoft Technologies](http://www.microsoftvirtualacademy.com/)
 * [The 37 Best Websites To Learn Something New — Life Learning — Medium](https://medium.com/life-learning/the-37-best-websites-to-learn-something-new-895e2cb0cad4)
@@ -28,7 +66,7 @@ Backup of the board made by Franco Leonardi.
 * [Learn to code and build web applications in one month.](https://onemonth.com/)
 * [Code Avengers: learn to code games, apps and websites](https://www.codeavengers.com/)
 
-## Webdev tutorials/tools
+### Webdev tutorials/tools
 
 * [Web Development Top 10 Articles in September](https://medium.mybridge.co/web-development-top-10-articles-in-september-bdbb9aeeadfe#.ymfqdgy6w)
 * [Web Development Top 10 Articles For the Past Month](https://medium.mybridge.co/web-development-top-ten-articles-for-the-past-month-edd4f150e599#.rdsq2lexu)
@@ -103,7 +141,7 @@ Backup of the board made by Franco Leonardi.
 * [URL Rewriting for Beginners - Codes Rich](http://codesrich.com/url-rewriting-for-beginners/)
 * [I've just discovered Bootstrap...What else have I been missing out on? : webdev](http://www.reddit.com/r/webdev/comments/2wuw3v/ive_just_discovered_bootstrapwhat_else_have_i/)
 
-## Git
+### Git
 
 * [Git: Undoing changes and rewriting history. - YouTube](https://www.youtube.com/watch?v=HtLPnadEWfI)
 * [Learn Git- Git tutorials, workflows and commands | Atlassian Git Tutorial](https://www.atlassian.com/git?utm_source=product-announcement-email&utm_medium=email&utm_campaign=atlassian_got-git&jobid=95762819&subid=1233788756)
@@ -133,13 +171,13 @@ Backup of the board made by Franco Leonardi.
 * [Learn Git Interactively : learnprogramming](http://www.reddit.com/r/learnprogramming/comments/2xfieg/learn_git_interactively/)
 * [Git-it Guide](http://jlord.us/git-it/challenges/merge_tada.html)
 
-## Java EE/Frameworks
+### Java EE/Frameworks
 
 * [Spring MVC Tutorials Archives • Crunchify](http://crunchify.com/category/spring-mvc/)
 * [Guides](https://spring.io/guides)
 * [Simplest Spring MVC Hello World Example / Tutorial - Spring Model - View - Controller T...](http://crunchify.com/simplest-spring-mvc-hello-world-example-tutorial-spring-model-view-controller-tips/)
 
-## Javascript/Frameworks
+### Javascript/Frameworks
 
 * [Creating stunning charts with Vue.js and Chart.js – Medium](https://medium.com/@apertureless/creating-stunning-charts-with-vue-js-and-chart-js-28af584adc0a#.cxtn45h8z)
 * [Angular 2+ and Ruby on Rails user authentication](https://hackernoon.com/angular-2-and-ruby-on-rails-user-authentication-fde230ddaed8#.dfybk1r9b)
@@ -240,7 +278,7 @@ Backup of the board made by Franco Leonardi.
 * [Code School - Anatomy of Backbone](http://backbone.codeschool.com/)
 * [Backbone.js Tutorials](http://backbonetutorials.com/)
 
-## HTML/CSS
+### HTML/CSS
 
 * [you-dont-need/You-Dont-Need-Javascript: CSS is powerful, you can do a lot of things wit...](https://github.com/you-dont-need/You-Dont-Need-Javascript)
 * [Leveling up in CSS](https://medium.freecodecamp.com/leveling-up-css-44b5045a2667#.5uxakp4hg)
@@ -298,7 +336,7 @@ Backup of the board made by Franco Leonardi.
 * [Code Guide by @mdo](http://codeguide.co/)
 * [Getting to Know HTML - Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/getting-to-know-html/)
 
-## HTML/CSS/JS Snippets
+### HTML/CSS/JS Snippets
 
 * [Home of free code snippets for Bootstrap | Bootsnipp.com](http://bootsnipp.com/)
 * [GitHub - vkarampinis/awesome-icons: A curated list of awesome Web Font Icons](https://github.com/vkarampinis/awesome-icons)
@@ -317,7 +355,7 @@ Backup of the board made by Franco Leonardi.
 * [Text Clock](http://codepen.io/searleb/pen/pvQaJB)
 * [I made a Material Design style text input with ZERO extra markup : webdev](http://www.reddit.com/r/webdev/comments/2yheyr/i_made_a_material_design_style_text_input_with/)
 
-## Ruby/Rails
+### Ruby/Rails
 
 * [Learn Ruby on Rails online – A comprehensive list of Ruby on Rails courses – Bafflednerd](http://bafflednerd.com/learn-ruby-on-rails-online/)
 * [7 Patterns to Refactor Fat ActiveRecord Models - Code Climate Blog](http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/)
@@ -362,7 +400,7 @@ Backup of the board made by Franco Leonardi.
 * [Gmail Like Chat Application in Ruby on Rails | Joseph Ndungu](http://josephndungu.com/tutorials/gmail-like-chat-application-in-ruby-on-rails)
 * [Chapter 5: Filling in the layout | Ruby on Rails Tutorial (3rd Ed.) | Softcover.io](https://www.railstutorial.org/book/filling_in_the_layout)
 
-## PHP
+### PHP
 
 * [PHP OOP Login/Register System: Introduction (Part 1/23) - YouTube](https://www.youtube.com/watch?v=c_hNNAdyfQk)
 * [Laravel Book and Learning Center | Learning Laravel](http://learninglaravel.net/)
@@ -375,7 +413,7 @@ Backup of the board made by Franco Leonardi.
 * [PHP: Getting Started - Manual](http://php.net/manual/en/getting-started.php)
 * [The PHP-LOGIN project](http://www.php-login.net/)
 
-## C#/.NET
+### C#/.NET
 
 * [Let's Build - ASP.NET 5, MVC 6 TodoList with Entity Framework 7 and Identity [Part 1] -...](https://www.youtube.com/watch?v=_7u9dOyK92o)
 * [Learning ASP.NET 5 Through Experimentation and Unit Testing | .NET Liberty](http://dotnetliberty.com/index.php/2015/11/30/learning-asp-net-5-through-experimentation-and-unit-testing/)
@@ -394,19 +432,19 @@ Backup of the board made by Franco Leonardi.
 * [Interactive C# Tutorial Site? : learnprogramming](http://www.reddit.com/r/learnprogramming/comments/357x7q/interactive_c_tutorial_site/)
 * [Home | Mono](http://www.mono-project.com/)
 
-## Haskell
+### Haskell
 
 * [Haskell for all: Basic Haskell Examples](http://www.haskellforall.com/2015/10/basic-haskell-examples.html)
 * [Haskell Tutorial for C Programmers - HaskellWiki](https://wiki.haskell.org/Haskell_Tutorial_for_C_Programmers)
 * [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/)
 * [Write Yourself a Scheme in 48 Hours - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours)
 
-## Scala
+### Scala
 
 * [Building REST API with Scala and Play Framework (Part I)](https://suspicious.website/2015/10/24/building-rest-api-with-play-framework-part-i/)
 * [Scala Tutorials Part #1 - Getting Started with Scala - Madusudanan](http://madusudanan.com/blog/scala-tutorials-part-1-getting-started/)
 
-## Challenges
+### Challenges
 
 * [Explore Coding Challenges | edabit.com](https://edabit.com/explore)
 * [15 Sites for Programming Exercises - Programming Zen](http://programmingzen.com/15-sites-for-programming-exercises/)
@@ -421,7 +459,7 @@ Backup of the board made by Franco Leonardi.
 * [CodeAbbey - programming problems to practice and learn for beginners](http://www.codeabbey.com/)
 * [Welcome :: CheckiO](http://www.checkio.org/)
 
-## Computer Science/Tutorials
+### Computer Science/Tutorials
 
 * [jwasham/coding-interview-university: A complete computer science study plan to become a...](https://github.com/jwasham/coding-interview-university)
 * [open-source-society/data-science: Path to a free self-taught education in Data Science!](https://github.com/open-source-society/data-science)
@@ -475,7 +513,7 @@ Backup of the board made by Franco Leonardi.
 * [YSK these 10 free online tools that can make your life better : YouShouldKnow](http://www.reddit.com/r/YouShouldKnow/comments/1tabuf/ysk_these_10_free_online_tools_that_can_make_your/)
 * [The best websites to learn coding easily. : learnprogramming](http://www.reddit.com/r/learnprogramming/comments/1g11nj/the_best_websites_to_learn_coding_easily/)
 
-## Misc.
+### Misc.
 
 * [braydie/HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer)
 * [Advice for the Freelance Developer — Medium](https://medium.com/@marknutter/advice-for-the-freelance-developer-68b63c69b050#.5ig97emvf)
@@ -503,7 +541,7 @@ Backup of the board made by Franco Leonardi.
 * [40 Key Computer Science Concepts Explained In Layman’s Terms](http://carlcheo.com/compsci)
 * [Any learning by doing online courses/sites? (Similar to codecademy) : learnprogramming](http://www.reddit.com/r/learnprogramming/comments/34c5gm/any_learning_by_doing_online_coursessites_similar/)
 
-## IDE/TextEditors
+### IDE/TextEditors
 
 * [Atom treasures](https://medium.freecodecamp.com/atom-treasures-82a64ac391c#.qvvhi4eb2)
 * [33 Essential Sublime Text Plugins for All Developers](http://aslanbakan.com/en/blog/33-essential-sublime-text-plugins-for-all-developers/)
@@ -533,7 +571,7 @@ Backup of the board made by Franco Leonardi.
 * [Setting up Sublime Text 3 for Rails Development | mattbrictson.com](https://mattbrictson.com/sublime-text-3-recommendations)
 * [Developing and Rails: Setting up Atom for Rails Development](http://www.developingandrails.com/2015/04/setting-up-atom-for-rails-development.html)
 
-## Books
+### Books
 
 * [Clean Code & Code Complete - Eric Heikes](http://ericheikes.com/clean-code-review/)
 * [Design Patterns: Elements of Reusable Object-Oriented Software: Erich Gamma, Richard He...](https://www.amazon.ca/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
@@ -547,13 +585,13 @@ Backup of the board made by Franco Leonardi.
 * [Books for learning new languages](https://edcryptickiller.github.io/programming_tutorials.html)
 * [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 
-## APIs
+### APIs
 
 * [An Introduction to APIs - Zapier](https://zapier.com/learn/apis/)
 * [DevDocs API Documentation](https://devdocs.io/)
 * [OverAPI.com | Collecting all the cheat sheets](http://overapi.com/)
 
-## Swift/iOS
+### Swift/iOS
 
 * [An iOS Developer on React Native — iOS App Development — Medium](https://medium.com/ios-os-x-development/an-ios-developer-on-react-native-1f24786c29f0)
 * [Swift Programming Language App Tutorial: Book Worm : plist, Closure Expressions, GCD an...](https://www.youtube.com/watch?v=tTwZe-Qe8TE&feature=share)
@@ -563,7 +601,7 @@ Backup of the board made by Franco Leonardi.
 * [Building Functional Apps with Sam Soffes - Realm is a mobile database: a replacement fo...](https://realm.io/news/sam-soffes-building-functional-apps/)
 * [Swift Education](http://swifteducation.github.io/)
 
-## Java/Android
+### Java/Android
 
 * [Best resources to learn Android Programming - CloudRail](http://cloudrail.com/best-resources-to-learn-android-programming/)
 * [Making An Android App: A Step-By-Step Guideline](http://www.teksmobile.com.au/blog/making-an-android-app-a-step-by-step-guideline/)
@@ -591,7 +629,7 @@ Backup of the board made by Franco Leonardi.
 * [How I become a professional Android developer at 17. Also, Ask Me Anything! : Android](http://www.reddit.com/r/Android/comments/2wt1rt/how_i_become_a_professional_android_developer_at/)
 * [Learn Java Easily With Code Examples : learnprogramming](http://www.reddit.com/r/learnprogramming/comments/36p7hw/learn_java_easily_with_code_examples/)
 
-## GameDev
+### GameDev
 
 * [Gaffer on Games | What every programmer needs to know about game networking](http://gafferongames.com/networking-for-game-programmers/what-every-programmer-needs-to-know-about-game-networking/)
 * [Godot Engine by Andre Antonio Schmitz | ZEEF](https://godot-engine.zeef.com/andre.antonio.schmitz)
@@ -629,7 +667,7 @@ Backup of the board made by Franco Leonardi.
 * [Source code for Quantum, an RTS with massive unit counts : gamedev](http://www.reddit.com/r/gamedev/comments/374omq/source_code_for_quantum_an_rts_with_massive_unit/)
 * [Games to learn C++ / C# : learnprogramming](http://www.reddit.com/r/learnprogramming/comments/355jif/games_to_learn_c_c/)
 
-## Unity
+### Unity
 
 * [Ultimate GameDev Tutorial Series by Master Indie - YouTube](https://www.youtube.com/playlist?list=PL01XdlyLiLq_3jEixs-OFFmKFeIz2SCNF)
 * [Create Video Games With Unity and C# - YouTube](https://www.youtube.com/playlist?list=PLeNrHC_ZUlbkMxTCFdEUs_JuN-7DU0FYO)
@@ -664,7 +702,7 @@ Backup of the board made by Franco Leonardi.
 * [Lets build a MMORPG - YouTube](https://www.youtube.com/playlist?list=PL_4rJ_acBNMFgWZf-MMBbFtrKnehwFWOe)
 * [Creating Inventory System in realtime. Do you have some tips which I have to implement?...](http://www.reddit.com/r/Unity3D/comments/2kxmzj/creating_inventory_system_in_realtime_do_you_have/)
 
-## SQL
+### SQL
 
 * [SQLZOO](http://sqlzoo.net/)
 * [Read A Primer on SQL | Leanpub](https://leanpub.com/aprimeronsql/read)
@@ -676,7 +714,7 @@ Backup of the board made by Franco Leonardi.
 * [SQLBolt - Learn SQL with simple, interactive examples](http://sqlbolt.com/?wd)
 * [PostgreSQL - Community Help Wiki](https://help.ubuntu.com/community/PostgreSQL)
 
-## Python/Django
+### Python/Django
 
 * [Extracting data from websites using Scrapy – Medium](https://medium.com/@kaismh/extracting-data-from-websites-using-scrapy-e1e1e357651a#.dzws61ozk)
 * [py3 in one pic.png (5542×9188)](https://raw.githubusercontent.com/coodict/python3-in-one-pic/master/py3%20in%20one%20pic.png)
@@ -707,11 +745,11 @@ Backup of the board made by Franco Leonardi.
 * [Learn Python The Hard Way](http://learnpythonthehardway.org/book/)
 * [First 3 online video tutorials for "Automate the Boring Stuff with Python" now availabl...](http://www.reddit.com/r/learnprogramming/comments/37idce/first_3_online_video_tutorials_for_automate_the/)
 
-## Startups
+### Startups
 
 * [Talent. Connected. | Startup Startup](http://www.startup2.net/)
 
-## WordPress
+### WordPress
 
 * [Sage | WordPress Starter Theme | Roots](https://roots.io/sage/)
 * [Bedrock | WordPress Boilerplate | Roots](https://roots.io/bedrock/)
@@ -719,42 +757,42 @@ Backup of the board made by Franco Leonardi.
 * [How To Create A Wordpress Online Store Landing Page | E-Commerce Tutorial! 2015 - YouTube](https://www.youtube.com/watch?v=Yz7BQ28kTzs&feature=youtu.be)
 * [The ThemeShaper WordPress Theme Tutorial: 2nd Edition | ThemeShaper](http://themeshaper.com/2012/10/22/the-themeshaper-wordpress-theme-tutorial-2nd-edition/)
 
-## F#
+### F#
 
 * [Ionide - Crossplatform F# Editor](http://ionide.io/)
 
-## Go
+### Go
 
 * [Building Full Stack Web Applications in Go - YouTube](https://www.youtube.com/watch?v=QvWUCYwmExE)
 
-## Regular expressions
+### Regular expressions
 
 * [Introduction to regular expressions](http://codeplanet.io/introduction-to-regular-expressions/)
 * [finall.pdf - Google Drive](https://drive.google.com/file/d/0B8pXbs2TQsmQS0l0SU9aWWhpd2s/view)
 * [RegExr: Learn, Build, & Test RegEx](http://www.regexr.com/)
 * [Online regex tester and debugger: JavaScript, Python, PHP, and PCRE](https://regex101.com/)
 
-## Rust
+### Rust
 
 * [Rust in Detail: Writing Scalable Chat Service from Scratch](http://nbaksalyar.github.io/2015/07/10/writing-chat-in-rust.html)
 * [Rust, a more powerful Swift for Linux! : linux](http://www.reddit.com/r/linux/comments/395qlc/rust_a_more_powerful_swift_for_linux/)
 * [Cargo Guide](http://doc.crates.io/guide.html)
 * [The Rust Programming Language](https://doc.rust-lang.org/book/)
 
-## Elixir/Frameworks
+### Elixir/Frameworks
 
 * [Phoenix](http://www.phoenixframework.org/)
 
-## CMS
+### CMS
 
 * [Easy for editors, and a developer's dream cms | BoltCM](https://bolt.cm/)
 * [Craft CMS | Focused content management for web professionals](https://craftcms.com/)
 
-## Tools
+### Tools
 
 * [Larder: bookmarking for developers.](https://larder.io/)
 
-## Podcasts
+### Podcasts
 
 * [My Top Eight Must-Listen Developer Podcasts](https://dev.to/ben/my-eight-must-listen-podcasts)
 * [11 podcasts that will make you a better software engineer – Sleep Easy Software](http://www.sleepeasysoftware.com/11-podcasts-that-will-make-you-a-better-software-engineer/)

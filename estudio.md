@@ -2,11 +2,28 @@
 
 Backup of the board made by Franco Leonardi.
 
-## Data Analysis
+--- 
+
+## Tabla de contenidos
+* [Data Analysis](\#data-analysis)
+* [Learning Resources](\#learning-resources)
+* [Music](\#music)
+* [Research](\#research)
+* [Progress and To-dos](\#progress-and-todos)
+* [Coursware](\#coursware)
+* [Drive y Proyectos](\#drive-y-proyectos)
+* [Programming](\#programming)
+* [Smalltalk](\#smalltalk)
+* [Focus](\#focus)
+* [E- books](\#e-books)
+* [UTN](\#utn)
+* [REACT](\#react)
+
+### Data Analysis
 
 * [Interactivate Histogram](http://www.shodor.org/interactivate/activities/Histogram/)
 
-## Learning Resources
+### Learning Resources
 
 * [Tutorials Community](https://hackr.io/)
 * [CS 229: Machine Learning (Course handouts)](http://cs229.stanford.edu/materials.html)
@@ -15,11 +32,11 @@ Backup of the board made by Franco Leonardi.
 * [Reddit Programming Resources](https://www.reddit.com/r/learnprogramming/wiki/online)
 * [Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md)
 
-## Music
+### Music
 
 * [MP3FY | Online MP3 Converter](https://www.mp3fy.com/)
 
-## Research
+### Research
 
 * [UDACITY NANODEGREES](https://github.com/mikesprague/udacity-nanodegrees#predictive-analytics-for-business-nanodegree)
 * [LUGLI](http://lugli.org.ar/index.php/P%C3%A1gina_principal)
@@ -27,14 +44,14 @@ Backup of the board made by Franco Leonardi.
 * [Reddit Saved Links](https://www.reddit.com/saved)
 * [Google Academico](https://scholar.google.com.ar/)
 
-## Progress and To-dos
+### Progress and To-dos
 
 * [Udacity Progress](https://github.com/LeonardiFranco/uda-progress)
 * [College Progress](https://github.com/LeonardiFranco/progress-tracking)
 * [NO ESTÁS DEPRIMIDO......TEXTO COMPLETO - Literatra de Facundo Cabral](http://www.facundocabral.info/literatura-texto.php?Id=87)
 * [Tracking Progress](https://docs.google.com/spreadsheets/d/1j7UXf-wQXEFUTUcVe9wznNLjBLHo6qvOJyBeqcYwvTw/edit#gid=503614477)
 
-## Coursware
+### Coursware
 
 * [The 50 Most Popular MOOCs of All Time](https://www.onlinecoursereport.com/the-50-most-popular-moocs-of-all-time/)
 * [UDACITY NANODEGREES](https://github.com/leonardifranco/udacity-nanodegrees)
@@ -49,7 +66,7 @@ Backup of the board made by Franco Leonardi.
 * [Hidden Courses](https://draftin.com/documents/596763?token=U5-BLZ_Jb-N-eMQMvWCfNVbOqRHFAayvIr56qryf67zMKkowS3rELL99R0q6IqGOaaptU47iuxdtelraTzNeaIA)
 * [MIT Open Courseware](http://ocw.mit.edu/index.htm)
 
-## Drive y Proyectos
+### Drive y Proyectos
 
 * [Reveal.js SLIDES](https://github.com/hakimel/reveal.js)
 * [MindMeister - Mind Maps](https://www.mindmeister.com/)
@@ -57,7 +74,7 @@ Backup of the board made by Franco Leonardi.
 * [Trello](http://trello.com/)
 * [Google Drive](https://drive.google.com/drive/my-drive)
 
-## Programming
+### Programming
 
 * [dwyl/learn-tdd](https://github.com/dwyl/learn-tdd/blob/master/README.md)
 * [Sphinx Tutorial](https://github.com/brandon-rhodes/sphinx-tutorial/tree/master/handout)
@@ -67,21 +84,21 @@ Backup of the board made by Franco Leonardi.
 * [Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript](https://regex101.com/)
 * [Top 10 Algorithms and Data Structures for Competitive Programming - GeeksforGeeks](http://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/)
 
-## Smalltalk
+### Smalltalk
 
 * [GNU Smalltalk User’s Guide](https://www.gnu.org/software/smalltalk/manual/gst.html)
 * [Pharo MOOC: Live Object Programming in Pharo](http://files.pharo.org/mooc/)
 
-## Focus
+### Focus
 
 * [Coffitivity](http://coffitivity.com/)
 
-## E- books
+### E- books
 
 * [Library Genesis / LibGen - The Meta Library](https://sites.google.com/site/themetalibrary/library-genesis)
 * [Online Library](http://golibgen.io/)
 
-## UTN
+### UTN
 
 * [unamunoenlinea](https://www.youtube.com/user/unamunoenlinea)
 * [LISP](https://www.tutorialspoint.com/lisp/)
@@ -90,7 +107,7 @@ Backup of the board made by Franco Leonardi.
 * [Material de Estudio - Algebra y Geometria Analitica - UTN FRD](https://sites.google.com/site/algebraatdelta/material-de-estudio)
 * [analisis matematico](http://www.edutecne.utn.edu.ar/geptecne/geptecne.html)
 
-## REACT
+### REACT
 
 * [Deploy to GH pages](https://github.com/mrkjlchvz/bitcoin-price-index#github-pages)
 * [Your best react tutorial • r/reactjs](https://www.reddit.com/r/reactjs/comments/60iadv/your_best_react_tutorial/)
