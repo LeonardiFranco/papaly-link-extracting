@@ -55,4 +55,4 @@ with open('README.md', 'w', errors='surrogateescape', encoding='utf-8') as readm
                     for t in titles:
                         fout.write("* [{}](\#{})\n".format(t[0],t[1]))
 
-        readme.write("* [{}](#/{}.md)\n".format(title,fname.lower()[2:]))
+        readme.write("* [{}](/{}.md)\n".format(title,fname.lower()[2:]))
