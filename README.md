@@ -2,5 +2,8 @@
 
 These are the backup bookmarks from my Papaly account.
 
-[Programming resources](programming.md)
-[Study and personal bookmarks](estudio.md)
+* [Estudio](#estudio.md)
+* [Job Search by Sector](#jobsearch.md)
+* [Photography](#photography.md)
+* [Programming](#programming.md)
+* [Tools](#tools.md)
